@@ -1,0 +1,4 @@
+# Project exclude paths
+/springcloud-api/target/
+/springcloud-consumer-dept-80/target/
+/springcloud-provider-dev-8001/target/
